@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(63): warning C4018: '<': signed/unsigned mismatch
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(68): warning C4018: '<': signed/unsigned mismatch
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(69): warning C4018: '<': signed/unsigned mismatch
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(71): warning C4018: '<': signed/unsigned mismatch
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(95): warning C4018: '<': signed/unsigned mismatch
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(106): warning C4018: '<': signed/unsigned mismatch
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(107): warning C4018: '<': signed/unsigned mismatch
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\github\morse-code-l.o.l\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\morseconverter.h(125): warning C4018: '<': signed/unsigned mismatch
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Morse Code L.O.L.vcxproj -> E:\GitHub\Morse-Code-L.O.L\Morse-Code-L.O.L\Morse Code L.O.L\Debug\Morse Code L.O.L.exe
